@@ -12,6 +12,13 @@
 </p>
 <!-- animation end -->
 
+<!-- animated GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Boy working on computer"/>
+</div>
+
+---
+
 <!-- social icons -->
 <div align="center">
   <a href="https://www.linkedin.com/in/danish-ghani-316a2217a" target="_blank">
